@@ -3,7 +3,6 @@
 This repository contains a research-oriented modification of **JHeaon/dinorun** (Unity DinoRun) for **Experiment 2 (DinoRun)** in the paper:
 
 > **Immediate Auditory Feedback Speeds Visuomotor Delay Adaptation in Video Games**  
-> [Authors] — [Venue / Year] — [Link to paper / preprint]
 
 The experiment tests whether **immediate auditory confirmation of input registration** helps players adapt more quickly to **visuomotor latency** (input-to-visual delay), compared to auditory feedback that is **delayed to coincide with the delayed visual event**.
 
